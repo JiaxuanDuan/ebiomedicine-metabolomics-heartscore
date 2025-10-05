@@ -16,7 +16,7 @@ mod <- model.matrix(~ MACE3 + AGE + GENDER + RACE2 + PE_BP_CLASS + PE_SYSTOLIC +
                     data = dat)
 
 # Parallel analysis via sva::num.sv (be/leek) as reference
-# (This is an example; you can plug in your own lantent confounder estimator here.)
+# (This is an example; you can plug in your own latent confounder estimator here.)
 # k_pa <- num.sv(t(metab), mod, method = "be")
 
 # saveRDS(k_pa, "outputs/05_num_sv_be.rds")
