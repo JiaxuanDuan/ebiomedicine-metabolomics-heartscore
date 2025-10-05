@@ -1,0 +1,22 @@
+# R project ignores
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+.Rprofile
+renv/library/
+renv/staging/
+
+# Data & outputs
+data/**
+!data/README.md
+outputs/**
+!outputs/figures/
+!outputs/tables/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

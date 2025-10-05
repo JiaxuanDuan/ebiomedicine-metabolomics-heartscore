@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Mid-life anti-inflammatory metabolites are inversely associated with long-term cardiovascular disease events"
+authors:
+  - family-names: Saeed
+    given-names: Anum
+  - family-names: McKennan
+    given-names: Chris
+  - family-names: Duan
+    given-names: Jiaxuan
+  - family-names: Yang
+    given-names: Yueh-Ning
+  - family-names: Kip
+    given-names: Kevin E.
+  - family-names: Finegold
+    given-names: David
+  - family-names: Vu
+    given-names: Michael
+  - family-names: Swanson
+    given-names: Justin
+  - family-names: Lopez
+    given-names: Oscar L.
+  - family-names: Cohen
+    given-names: Ann
+  - family-names: Mapstone
+    given-names: Mark
+  - family-names: Yu
+    given-names: Bing
+  - family-names: Ballantyne
+    given-names: Christie M.
+  - family-names: Reis
+    given-names: Steven E.
+version: "1.0.0"
+doi: "10.1016/j.ebiom.2024.105551"
+journal: "eBioMedicine"
+publisher: "Elsevier"
+volume: "112"
+year: 2025
+url: "https://doi.org/10.1016/j.ebiom.2024.105551"
+license: "MIT"
+repository-code: "https://github.com/<your-username>/ebiomedicine-metabolomics-heartscore"
+preferred-citation:
+  type: article
+  title: "Mid-life anti-inflammatory metabolites are inversely associated with long-term cardiovascular disease events"
+  authors:
+    - family-names: Saeed
+      given-names: Anum
+    - family-names: McKennan
+      given-names: Chris
+    - family-names: Duan
+      given-names: Jiaxuan
+    - family-names: et al.
+      given-names: ""
+  journal: "eBioMedicine"
+  publisher: "Elsevier"
+  volume: "112"
+  year: 2025
+  doi: "10.1016/j.ebiom.2024.105551"
+  url: "https://doi.org/10.1016/j.ebiom.2024.105551"
