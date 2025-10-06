@@ -62,3 +62,13 @@ If you use this code, please cite the eBioMedicine paper (see `CITATION.cff`).
 
 ## License
 MIT (see `LICENSE`). If journal policy differs, switch to "No license" or a restricted license.
+
+## Data & Compliance
+
+This repository contains reproducible R code for metabolomics and cardiovascular health analyses.  
+No participant-level data, identifiers, or institutional paths are included.  
+File and variable names are generalized for reproducibility only.  
+Mentions of study names (e.g., *Heart SCORE*) or data platforms (e.g., *Metabolon*) are for context and do not imply access to protected data.  
+Released under institutional and HIPAA-compliant research transparency standards.
+
+---
